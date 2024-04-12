@@ -80,6 +80,8 @@ p {
 
 .link:hover {
   text-decoration: none;
+  color: hsl(0, 0%, 8%);
+  background-color: hsl(75, 94%, 57%);
 }
 
 .link:active {
